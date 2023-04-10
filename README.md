@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drifty-Cyber
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ExpressJS
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me raphaelfadimu@gmail.com
 
