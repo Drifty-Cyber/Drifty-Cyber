@@ -1,4 +1,4 @@
-- 👋 Hi, My name is <h1>Raphael<h1>
+- 👋 Hi, My name is Raphael Fadimu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently discovering the superpowers of ExpressJS
 - 💞️ I’m looking to collaborate on JavaScript Projects
