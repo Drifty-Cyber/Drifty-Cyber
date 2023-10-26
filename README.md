@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Raphael Fadimu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently discovering the superpowers of ExpressJS and AdonisJS
-- 🛳 Sailing with Typescript and MySQL
+- 🛳 Sailing with Typescript, MySQL & ReactJS
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me raphaelfadimu@gmail.com
 
