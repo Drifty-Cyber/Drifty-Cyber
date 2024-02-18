@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Raphael Fadimu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently discovering the superpowers of AdonisJS & KnexJS
+- 🌱 I’m currently discovering the superpowers of AdonisJS
 - 🛳 Sailing with ExpressJS, Typescript, MySQL & React
 - 👨🏾‍💻 CyberSecurity Enthusiast (ISC2 CC Certified)
 - 💞️ I’m looking to collaborate on JavaScript Projects
