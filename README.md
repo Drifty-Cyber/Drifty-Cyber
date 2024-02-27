@@ -1,7 +1,6 @@
 - 👋 Hi, My name is Raphael Fadimu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently discovering the superpowers of AdonisJS
-- 🛳 Sailing with ExpressJS, Typescript, MySQL & React
+- 🌱 Fullstack Developer who speaks the language of both browsers and servers, crafting elegant solutions that are beautiful and functional.
 - 👨🏾‍💻 CyberSecurity Enthusiast (ISC2 CC Certified)
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - ✈  Reach out to me to launch our relationship
