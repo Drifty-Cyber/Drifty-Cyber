@@ -3,6 +3,7 @@
 - 🌱 Fullstack Developer who speaks the language of both browsers and servers, crafting elegant solutions that are beautiful and functional.
 - 👨🏾‍💻 CyberSecurity Enthusiast (ISC2 CC Certified)
 - 💞️ I’m looking to collaborate on JavaScript Projects
+- 🍀 I am currently learning C#
 - ✈  Reach out to me to launch our relationship
 - 📫 How to reach me raphaelfadimu@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/raphael-fadimu-5a85961a4/
