@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 Fullstack Developer who speaks the language of both browsers and servers, crafting elegant solutions that are beautiful and functional.
 - 👨🏾‍💻 CyberSecurity Enthusiast (ISC2 CC Certified)
-- 💞️ I’m looking to collaborate on JavaScript Projects
+- 💞️ I’m looking to collaborate on JavaScript & Typescript Projects
+- ☄  Linux Sys. Admin
 - 🍀 I am currently learning C#
 - ✈  Reach out to me to launch our relationship
 - 📫 How to reach me raphaelfadimu@gmail.com
